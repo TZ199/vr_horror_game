@@ -3,7 +3,7 @@ title: VR Horror Game
 subtitle: a project in CSCI 538
 email: zhoutx0@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/ar_hrror_game" # the subpath of your site, e.g. /blog
+baseurl: "/vr_hrror_game" # the subpath of your site, e.g. /blog
 url:  https://tz199.github.io # the base hostname & protocol for your site
 author: Tianxin
 street_address: 
