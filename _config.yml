@@ -1,5 +1,5 @@
 # site settings
-title: VR Horror Game
+title: Memories
 subtitle: a project in CSCI 538
 email: zhoutx0@gmail.com
 description: 
@@ -15,7 +15,7 @@ phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 4
 
 # social settings
 500px_url:

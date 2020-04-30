@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'VR Horror Game'
+landing-title: 'Memories:     A VR Horror Game'
 description: 
 image: null
 author: null

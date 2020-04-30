@@ -2,9 +2,8 @@
 layout: post
 title: Team
 description: Team Description
-image: null
 nav-menu: true
-image: assets/images/team_member.jpg
+image: assets/images/team_member.jpeg
 ---
 
 
@@ -19,6 +18,8 @@ Tianxin Zhou
 Zhenyang Yu
 
 Songnan Wu
+
+<img src="assets/images/team_member.jpg" alt="songnan" width="200"/>
 
 Yuan Diao
 
