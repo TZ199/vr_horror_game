@@ -19,6 +19,8 @@ Project Manager & Game Director & Gameplay Engineer
 **Sheng-Kai Tang**: 
 Sound Engineer & Gameplay Engineer
 
+<img src="assets/images/shengkai.jpeg" alt="shengkai" width="200"/>  Email: <ankaphantom0223@gmail.com>
+
 
 **Songnan Wu**: 
 Gameplay Engineer & Sound Engineer
