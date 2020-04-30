@@ -7,4 +7,5 @@ nav-menu: true
 image: assets/images/demo.jpg
 ---
 
-Youtube vedio here.
+
+<center> {% youtube 6SD_ZYRwYTk %} </center>
