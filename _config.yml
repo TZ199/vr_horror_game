@@ -4,7 +4,7 @@ subtitle: a project in CSCI 538
 email: zhoutx0@gmail.com
 description: 
 baseurl: "/vr_horror_game/" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+url: https://tz199.github.io # the base hostname & protocol for your site
 author: Tianxin
 street_address: 
 city: LA
